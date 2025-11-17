@@ -3,11 +3,12 @@ A Python-based grid simulation that visualizes how different pathfinding algorit
 This project demonstrates A* and DFS Backtracking algorithms with animated movement, obstacles, and step-by-step traversal.
 
 # Technology Used
-•	Python
-•	Matplotlib (for visualization & animation)
-•	NumPy (for grid processing)
-•	Heap (priority queue for A*)
-•	Matplotlib Widgets (Button UI)
+•	**Python**<br>
+•   **Matplotlib** (for visualization & animation)<br>
+•   **NumPy** (for grid processing)<br>
+•   **Heapq** (priority queue for A*)<br>
+•   **Matplotlib Widgets** (Button UI)<br>
+
 
 # Requirements
 1.	Install Python (3.8+ recommended)
@@ -62,4 +63,5 @@ Mahesh Kshirsagar
 maheshkshirsagar510@gmail.com
 
 Maharashtra, India
+
 
