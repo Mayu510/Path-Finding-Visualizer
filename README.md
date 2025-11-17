@@ -22,11 +22,11 @@ This project demonstrates A* and DFS Backtracking algorithms with animated movem
 python path_finding.py
 
 5.	A visual window will appear showing:
-    •   Grid
-    •	Start & Goal
-    •	Obstacles
-    •	Car movement animation
-    •	Next button to switch algorithms (A* ↔ Backtracking)
+    •   Grid <br>
+    •	Start & Goal <br>
+    •	Obstacles <br>
+    •	Car movement animation <br>
+    •	Next button to switch algorithms (A* ↔ Backtracking) <br>
 
 # Features
 ✔ A* Pathfinding
@@ -63,5 +63,6 @@ Mahesh Kshirsagar
 maheshkshirsagar510@gmail.com
 
 Maharashtra, India
+
 
 
