@@ -21,7 +21,7 @@ This project demonstrates A* and DFS Backtracking algorithms with animated movem
 4.	Run the project:
 python path_finding.py
 
-5.	A visual window will appear showing:
+5.	A visual window will appear showing: <br>
     •   Grid <br>
     •	Start & Goal <br>
     •	Obstacles <br>
@@ -63,6 +63,7 @@ Mahesh Kshirsagar
 maheshkshirsagar510@gmail.com
 
 Maharashtra, India
+
 
 
 
