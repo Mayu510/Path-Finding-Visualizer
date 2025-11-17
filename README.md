@@ -11,17 +11,17 @@ This project demonstrates A* and DFS Backtracking algorithms with animated movem
 
 
 # Requirements
-1.	Install Python (3.8+ recommended)
+1. Install Python (3.8+ recommended)
 
-2.	Install required libraries:
+2. Install required libraries:
     pip install matplotlib numpy
 
-3.	Download the project folder.
+3. Download the project folder.
 
-4.	Run the project:
-python path_finding.py
+4. Run the project:
+   python path_finding.py
 
-5.	A visual window will appear showing: <br>
+5. A visual window will appear showing: <br>
     •   Grid <br>
     •	Start & Goal <br>
     •	Obstacles <br>
@@ -63,6 +63,7 @@ Mahesh Kshirsagar
 maheshkshirsagar510@gmail.com
 
 Maharashtra, India
+
 
 
 
